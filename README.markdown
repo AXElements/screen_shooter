@@ -8,8 +8,8 @@ You can take screen shots of the full screen, including multi-monitor
 setups, or arbitrary rectangles on screen. Images can be compared or
 saved to disk.
 
-[![Dependency Status](https://gemnasium.com/AXElements/screen_shooter.png)](https://gemnasium.com/AXElements/accessibility_core)
-[![Code Climate](https://codeclimate.com/github/AXElements/screen_shooter.png)](https://codeclimate.com/github/AXElements/accessibility_core)
+[![Dependency Status](https://gemnasium.com/AXElements/screen_shooter.png)](https://gemnasium.com/AXElements/screen_shooter)
+[![Code Climate](https://codeclimate.com/github/AXElements/screen_shooter.png)](https://codeclimate.com/github/AXElements/screen_shooter)
 
 
 ## Copyright
